@@ -3,6 +3,7 @@
 " Maintainer: Kibet Yegon <kibyegn@gmail.com>                                "
 "        URL: http://github.com/kibyegn/dotfiles                             "
 "       Note: Borrowed from Michael J. Smalley <michaeljsmalley@gmail.com>   "
+"             https://github.com/michaeljsmalley/dotfiles/blob/master/vimrc  "
 "                                                                            "
 " Sections:                                                                  "
 "   01. General ................. General Vim behavior                       "
